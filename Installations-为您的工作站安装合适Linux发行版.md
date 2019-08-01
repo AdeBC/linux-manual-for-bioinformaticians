@@ -10,7 +10,9 @@
 如果您想要了解自由软件的方方面面，可以仔细阅读由 Debian 撰写的介绍页面——[何谓自由](https://www.debian.org/intro/free.zh-cn.html)
 和维基百科页面[自由软件](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6)  
 
----
+---  
+
+## 概述  
 Linux 发行版的开发就是在自由软件为潮流的背景下流行起来的。因为相较于以往的商业公司主导的软件开发，用户个人有对源代码进行修改的权利，
 自由软件许可证允许用户自行完善该软件，也相当于用户可以在作者开发的基础之上进行再开发，把它变成自己的东西——这当然能够为用户省下大量时间。
 因此，全世界的 Linux 发行版数量正在越来越多。  
@@ -19,8 +21,12 @@ Linux 发行版的开发就是在自由软件为潮流的背景下流行起来�
 在诸多 Linux 软件的包管理器中，得到用户认可较多的有三个：apt、yum、pacman+aur。其分别属于Debian系、Redhat系和Arch系发行版。  
 但尽管其影响稍大，由于生信人使用的软件大多是成熟且稳定的，因此上述三个包管理器都能基本满足需要。
 但Arch系发行版因为滚动更新等问题容易“滚崩”所以不太适合长期安装在服务器上。因此我推荐Ubuntu和Cent OS，其分别属于Debian系和Redhat系。  
----
-## 安装系统的流程
+
+
+---  
+
+## 安装系统的流程  
+![github](https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations.jpg)  
 
 ### 安装Ubuntu
 
