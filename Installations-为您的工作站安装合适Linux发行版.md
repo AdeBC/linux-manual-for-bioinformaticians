@@ -21,7 +21,8 @@ Linux 发行版的开发就是在自由软件为潮流的背景下流行起来�
 但尽管其影响稍大，由于生信人使用的软件大多是成熟且稳定的，因此上述三个包管理器都能基本满足需要。
 但Arch系发行版因为滚动更新等问题容易“滚崩”所以不太适合长期安装在服务器上。因此我推荐Ubuntu和Cent OS，其分别属于Debian系和Redhat系。  
 
-## 安装系统的流程  
+## 安装  
+安装系统一般需要完成如下流程：  
 ![github](https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations-1.jpg)  
 ### 安装Ubuntu  
 镜像下载：  
