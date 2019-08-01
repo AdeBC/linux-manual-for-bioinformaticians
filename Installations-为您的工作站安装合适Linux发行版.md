@@ -28,21 +28,19 @@ Linux 发行版的开发就是在自由软件为潮流的背景下流行起来�
 
 ## 安装系统的流程  
 ![github](https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations-1.jpg)  
-
-### 安装Ubuntu
-
+### 安装Ubuntu  
+镜像下载：  
+[中国科学技术大学](http://mirrors.ustc.edu.cn/ubuntu-releases/)    [清华大学](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/)    [南京大学](http://mirrors.nju.edu.cn/ubuntu-releases/)    [上海交通大学](http://ftp.sjtu.edu.cn/ubuntu-cd/)    [华为云](http://mirrors.huaweicloud.com/repository/ubuntu-releases/)  
+安装教程：  
+服务器版：[tutorial-install-ubuntu-server](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-server)  
+PC版：[tutorial-install-ubuntu-desktop](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop)  
 
 
 ### 安装Centos
+镜像下载：  
+[南京大学](http://mirrors.nju.edu.cn/centos/)    [上海交通大学](http://ftp.sjtu.edu.cn/centos/)    [清华大学](https://mirrors.tuna.tsinghua.edu.cn/centos/)    [阿里云](http://mirrors.aliyun.com/centos/)    [华为云](http://mirrors.huaweicloud.com/centos/)    [网易云](http://mirrors.163.com/centos/)  
+安装教程：[install-guide](https://docs.centos.org/en-US/centos/install-guide/)
 
 
-
-
-
-
-
-
-
-
-如果您想要了解更多个 Linux 发行版，可以在[distrowatch](https://distrowatch.com/)上自行探索。
-或若您觉得我的介绍不够全面，可以上[Ubuntu官网](https://ubuntu.com/)和[Centos官网](https://www.centos.org/)自行探索和了解。
+若您想要了解更多个 Linux 发行版，可以在[distrowatch](https://distrowatch.com/)上自行探索。
+若您想全面了解 Ubuntu 和 Centos 发行版，可以上[Ubuntu官网](https://ubuntu.com/)和[Centos官网](https://www.centos.org/)自行探索和了解。
