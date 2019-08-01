@@ -27,10 +27,7 @@ Linux 发行版的开发就是在自由软件为潮流的背景下流行起来�
 ---  
 
 ## 安装系统的流程  
-<img src="https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations.jpg" alt="GitHub" title="Installations" width="50" height="200" />    
-阀打开房间啊开始打飞机啊但是发酵奥撒娇的发  
-
-![github](https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations.jpg)  
+![github](https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations-1.jpg)  
 
 ### 安装Ubuntu
 
