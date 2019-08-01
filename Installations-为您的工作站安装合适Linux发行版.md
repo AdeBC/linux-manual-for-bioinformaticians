@@ -1,6 +1,7 @@
 # 安装
 ### Installations
 
+
 是的，在进行任何后续操作之前，为您的工作站安装一个合适的 Linux 发行版本是至关重要的。
 为了向您解释清楚何为发行版本，我需要先解释一些其它概念。让我们先从Linux项目的开源特性开始。  
 您可能已经知晓 Linux 是自由软件/开源软件，您或许也听说过“自由软件”这个词、或者已经对它有一定的了解。但为了阐述方便，请让我为您简要说明——什么是自由软件？  
@@ -26,6 +27,9 @@ Linux 发行版的开发就是在自由软件为潮流的背景下流行起来�
 ---  
 
 ## 安装系统的流程  
+<img src="https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations.jpg" alt="GitHub" title="Installations" width="50" height="200" />    
+阀打开房间啊开始打飞机啊但是发酵奥撒娇的发  
+
 ![github](https://github.com/ChongHui-007/Linux-recipe-for-BMC-learners/blob/master/material/Installations.jpg)  
 
 ### 安装Ubuntu
