@@ -9,7 +9,7 @@
 > **自由软件就是您可以自由地安装、使用、修改和再发行的软件。**  
   
 如果您想要了解自由软件的方方面面，可以仔细阅读由 Debian 撰写的介绍页面——[何谓自由](https://www.debian.org/intro/free.zh-cn.html)
-和维基百科页面[自由软件](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6)  
+和维基百科页面——[自由软件](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6)  
 
 ## 选择  
 Linux 发行版的开发就是在自由软件为潮流的背景下流行起来的。因为相较于以往的商业公司主导的软件开发，用户个人有对源代码进行修改的权利，
